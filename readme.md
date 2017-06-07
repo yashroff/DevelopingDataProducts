@@ -12,7 +12,7 @@ The below interactive maps were created in plotly and are hosted on rpubs:
 
 * Crime rates in American cities: https://rpubs.com/yashroff/USA_Crime_rates
 * US Arrests by population: https://rpubs.com/yashroff/Week3
-* US Population in 1975
+* US Population in 1975: http://rpubs.com/yashroff/283094
 
 ## Interactive Shiny Apps
 The below apps were created using shiny.
